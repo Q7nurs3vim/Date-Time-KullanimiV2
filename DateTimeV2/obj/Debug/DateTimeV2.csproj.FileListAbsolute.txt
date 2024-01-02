@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\bin\Debug\DateTimeV2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\bin\Debug\DateTimeV2.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\bin\Debug\DateTimeV2.pdb
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\DateTimeV2\DateTimeV2\obj\Debug\DateTimeV2.pdb
